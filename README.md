@@ -9,3 +9,5 @@ My three.js template.
 - webpack - https://webpack.github.io/
 - glslify - https://github.com/stackgl/glslify
 
+![capture](https://raw.githubusercontent.com/mattatz/threejs-template/master/capture.gif)
+
