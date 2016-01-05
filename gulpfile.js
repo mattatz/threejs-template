@@ -12,7 +12,7 @@ var webpack = require("gulp-webpack");
 var ejs = require("gulp-ejs");
 
 gulp.task("webpack", function() {
-    gulp.src("./source/javascripts/app.js")
+    gulp.src("./source/javascripts/main.js")
         .pipe(webpack({
             entry : "./source/javascripts/main.js",
             output : {
