@@ -14,7 +14,8 @@
     "gulp-ejs": "^1.2.1",
     "gulp-sass": "^2.1.0",
     "gulp-webpack": "^1.5.0",
-    "gulp-webserver": "^0.9.1"
+    "gulp-webserver": "^0.9.1",
+    "imports-loader": "^0.6.5"
   },
   "dependencies": {
     "exports-loader": "^0.6.2",

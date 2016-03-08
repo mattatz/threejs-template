@@ -3,8 +3,6 @@
  * @author Mark Lundin   / http://mark-lundin.com
  */
 
-var THREE = require("threejs");
-
 THREE.TrackballControls = function ( object, domElement ) {
 
   var _this = this;

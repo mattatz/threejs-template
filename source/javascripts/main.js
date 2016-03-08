@@ -7,7 +7,7 @@
 
     var $ = require("jquery");
     var THREE = require("threejs");
-    require("./lib/TrackballControls.js");
+    require("imports?THREE=threejs!./lib/TrackballControls.js");
     var dat = require("exports?dat!dat-gui");
 
     var app, App = function(id) {
